@@ -6,8 +6,8 @@ Elle est pensée pour consommer très peu de ressources : fenêtre fermée, l'in
 <img width="1664" height="999" alt="Capture d’écran 2026-11-07 à 15 14 53" src="https://github.com/user-attachments/assets/5ca1bb8f-6f9e-4987-acf0-b687892c2758" />
 <img width="1664" height="999" alt="Capture d’écran 2026-11-07 à 15 14 21" src="https://github.com/user-attachments/assets/de08a0a3-60ab-4e8e-ade6-ed71f2b3218f" />
 <img width="1719" height="1108" alt="Capture d’écran 2026-11-07 à 20 31 01" src="https://github.com/user-attachments/assets/dcaa424c-fdab-4245-b282-4a993ba004a0" />
-<img width="1669" height="947" alt="Capture d’écran 2026-11-09 à 06 32 27" src="https://github.com/user-attachments/assets/1e7bea21-0599-4b2f-8079-44fecbf73ab2" />
 <img width="1669" height="947" alt="Capture d’écran 2026-11-09 à 06 23 39" src="https://github.com/user-attachments/assets/c4c232ba-d876-4f39-9f2b-3c447c1ec4a6" />
+<img width="1669" height="947" alt="Capture d’écran 2026-11-09 à 06 32 27" src="https://github.com/user-attachments/assets/1e7bea21-0599-4b2f-8079-44fecbf73ab2" />
 
 
 Moniteur système et contrôleur de refroidissement pour macOS
